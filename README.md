@@ -1,6 +1,6 @@
 本代码库用于基于spike和LFP植入式脑电融合解码研究，a multi-scale spike-local field potential (LFP) fusion decoding framework (MFND)，支持从原始神经信号（神经元放电 Spike、局部场电位 LFP）预处理到深度学习模型训练、超参数优化的全流程操作。
 
-
+![仓库内图片](docs/image/图片1.png "仓库内的 logo")
 
 环境依赖与配置说明
 
